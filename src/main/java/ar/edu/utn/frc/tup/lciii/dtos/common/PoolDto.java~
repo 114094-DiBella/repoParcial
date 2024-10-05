@@ -1,0 +1,9 @@
+package ar.edu.utn.frc.tup.lciii.dtos.common;
+
+import java.util.List;
+
+public class PoolDto {
+
+    private String name;
+    private List<TeamDto> teams; // <Team>
+}
